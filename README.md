@@ -1,0 +1,1 @@
+This is a pokemon finder app utilizing Vite, React, and the PokeAPI.
